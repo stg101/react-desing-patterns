@@ -3,7 +3,7 @@ import React from "react";
 function Visibility({ title = "", visibility }) {
   return (
     <li>
-      {title} <code>{visibility.toString()}</code>
+      {title} <i>{visibility.toString()}</i>
     </li>
   );
 }
