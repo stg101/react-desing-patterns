@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Use visibility hook 1`] = `
+<DocumentFragment>
+  <div>
+    The visibility page: true
+  </div>
+</DocumentFragment>
+`;
